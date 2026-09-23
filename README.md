@@ -6,3 +6,5 @@ openproject
 
 # hello.py 작동법
 visual studio code에서 F5
+
+웹에서 변경해보기
